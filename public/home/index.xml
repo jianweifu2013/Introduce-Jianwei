@@ -95,14 +95,15 @@ Now he wants to start another adventure in Data Science area, and would like to 
     </item>
     
     <item>
-      <title>Teaching</title>
+      <title>Useful R Packages</title>
       <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <description>This is an list of R Packages I use a lot for my personal projects and company projects.
+Data Manipulation  dplyr &amp;nbsp; for data manipulation data.table &amp;nbsp; for data manipulation tidyr &amp;nbsp; for data tidying stringr &amp;nbsp; for string manipulation lubridate &amp;nbsp; for date and time manipulation
+
+  Visualization and Report  ggplot2 &amp;nbsp; the most famous R package for making beautiful graphics htmlwidgets &amp;nbsp; a simple way to build interactive visualization shiny &amp;nbsp; build an interactive web application R Markdown &amp;nbsp; not a package but a super useful approach to create high quality documents, reports, presentations and dashboards</description>
     </item>
     
     <item>

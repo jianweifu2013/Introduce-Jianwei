@@ -7,7 +7,7 @@ date = 2017-09-20T00:00:00
 active = true
 
 title = "Skills"
-subtitle = ""
+subtitle = "With Degree of Proficiency"
 
 # Order that this section will appear in.
 weight = 7
@@ -31,31 +31,31 @@ weight = 7
   icon = "chart-line"
   icon_pack = "fas"
   name = "Visualization"
-  description = "100%"  
+  description = "90%"  
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "100%"  
+  description = "80%"  
 
 [[feature]]
   icon = "bezier-curve"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%" 
+  description = "90%" 
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "10%"
+  description = "50%"
 
 [[feature]]
   icon = "file-excel"
   icon_pack = "far"
   name = "MS Office Suite"
-  description = "10%"
+  description = "90%"
 
 
 +++
