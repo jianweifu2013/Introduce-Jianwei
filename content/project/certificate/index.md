@@ -13,7 +13,7 @@ summary = "Certificates,Statements of Accomplishement, and Honors `External_link
 tags = ["Demo"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://jianweifu2013.github.io/test/"
+external_link = "https://certificate-honors-jianwei.netlify.com"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
