@@ -13,7 +13,7 @@ summary = "Courses learnt from DataCamp `External_link`."
 tags = ["Demo"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://https://www.datacamp.com/profile/jianweifu2013"
+external_link = "https://www.datacamp.com/profile/jianweifu2013"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
